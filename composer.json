@@ -1,0 +1,15 @@
+{
+    "name": "bug-less/client",
+    "description": "bugless.me client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bugless.me",
+            "email": "code@bugless.me"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}

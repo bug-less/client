@@ -1,0 +1,14 @@
+# Composer Vendors
+/vendor
+
+# Composer Lock file
+composer.lock
+
+# PHPStorm Project Files
+/.idea
+
+# Windows and Mac Temp Files
+.DS_Store
+Thumbs.db
+
+
